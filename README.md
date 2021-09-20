@@ -1,6 +1,6 @@
 # Instelp
 
-It is an instant delivery Hybrid application developed aiming to provide multiple goods and personalized services within 30 mins-1 hr.
+It is an instant delivery Hybrid(web + mobile) application developed aiming to provide multiple goods and personalized services within 30 mins-1 hr.
 
 Application has a algorithm which calculates delivery cost and time using Google Distance Matrix and Google Location API.
 
